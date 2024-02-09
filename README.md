@@ -1,4 +1,4 @@
-# FraudDetector-Microservice-Application
+# Fraud Detection Application
 
 Microservices:
 * [Multithreaded Batch Import](https://github.com/evan999/FinanceTracker-FinanceTransactionBatch)
